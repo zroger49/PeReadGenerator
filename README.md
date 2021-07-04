@@ -1,5 +1,5 @@
 # PeReadGenerator
-A simple generator of pair-end reads build with java 
+A simple generator of pair-end reads built with java 
 
 
 # Usage 
